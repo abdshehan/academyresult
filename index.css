@@ -1,0 +1,29 @@
+#main {
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+#inputs {
+  height: 28rem;
+  width: 20rem;
+  background-color: #073ef3;
+  color: white;
+  text-align: center;
+  margin: 6% auto;
+  border-radius: 1rem;
+  padding: 8px;
+  position: relative;
+  box-shadow: 5px 5px 0px white;
+}
+input {
+  font-weight: bolder;
+  background-color: rgb(0, 0, 0, 0.8);
+  color: white;
+  border: none;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 9px;
+}
